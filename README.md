@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">✨ Main Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=#FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/Unrealengine-F7DF1E.svg?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />&nbsp
+  <img src="https://img.shields.io/badge/Rider-E34F26.svg?style=for-the-badge&logo=rider&logoColor=#000000" />&nbsp
+</div>
