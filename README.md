@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
    
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%202%20JeongHyeon2's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+  ![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${Welcome to Gemini!%20!🥳}&fontSize=${50}&animation=${twinkling})
   <div>
    이제민.
      </div>
