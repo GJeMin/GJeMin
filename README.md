@@ -32,13 +32,14 @@ Here are some ideas to get you started:
          <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>               
    </div>
    <div>
-     <h3>🌱 Tools 🌱</h3>
-         <img src="https://img.shields.io/badge/Rider-E34F26.svg?style=for-the-badge&logo=rider&logoColor=#000000" />&nbsp
-   </div>
-   <div>
        <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/>
       <img src ="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
       <img src="https://img.shields.io/badge/HTML-FFA500?style=flat-square&logo=html5&logoColor=white"/>
      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
    </div>
+   <div>
+     <h3>🌱 Tools 🌱</h3>
+         <img src="https://img.shields.io/badge/Rider-E34F26.svg?style=for-the-badge&logo=rider&logoColor=#000000" />&nbsp
+   </div>
+  
 </div>
