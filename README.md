@@ -41,5 +41,12 @@ Here are some ideas to get you started:
      <h3>🌱 Tools 🌱</h3>
          <img src="https://img.shields.io/badge/Rider-E34F26.svg?style=for-the-badge&logo=rider&logoColor=#000000" />&nbsp
    </div>
+
+   <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJeMin&layout=compact&theme=onedark" width="400">
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=GJeMin&count_private=true&show_icons=true&theme=onedark" width="400">
+</div>
   
 </div>
