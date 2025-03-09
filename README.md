@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20To%20Gemini&fontSize=90&animaion=twinkling" />
   <div>
    이제민.
+    <hr>
      </div>
       <h3 align="center">✨ Main Tech Stack ✨</h3>
       <div align="center">
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
        <img src="https://img.shields.io/badge/Unrealengine-20232a.svg?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />&nbsp
    </div>
-  </br>
+  <hr>
    <div>
      <h3>🔭 Used 🔭</h3>
         <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"/>&nbsp
    </div>
-</br>
+<hr>
    <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJeMin&layout=compact&theme=onedark" width="400">
 </div>
