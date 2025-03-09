@@ -40,9 +40,7 @@ Here are some ideas to get you started:
         <img src ="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"/>
-     &nbsp
-     &nbsp
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"/>&nbsp
    </div>
 
    <div align="center">
