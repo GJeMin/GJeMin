@@ -24,7 +24,6 @@ Here are some ideas to get you started:
       <div align="center">
         <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=#FFFFFF" />&nbsp
         <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Unrealengine-20232a.svg?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />&nbsp
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       </div>
      
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-       
+       <img src="https://img.shields.io/badge/Unrealengine-20232a.svg?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />&nbsp
    </div>
    <div>
      <h3>🌱 Used 🌱</h3>
@@ -42,6 +41,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"/>
+     &nbsp
+     &nbsp
    </div>
 
    <div align="center">
