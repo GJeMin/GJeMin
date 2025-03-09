@@ -35,7 +35,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/Unrealengine-20232a.svg?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />&nbsp
    </div>
    <div>
-     <h3>🌱 Used 🌱</h3>
+     <h3>🔭 Used 🔭</h3>
         <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
         <img src ="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white"/>
